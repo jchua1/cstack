@@ -1,2 +1,2 @@
-# cstack
-Graphics Assignment 8
+# polygons
+Graphics Assignment 7
