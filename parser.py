@@ -176,7 +176,5 @@ def parse_file( fname, edges, transform, screen, color ):
                 display(screen)
             else:
                 save_extension(screen, args[0])
-
-            clear_screen(screen)
         
         c+= 1
